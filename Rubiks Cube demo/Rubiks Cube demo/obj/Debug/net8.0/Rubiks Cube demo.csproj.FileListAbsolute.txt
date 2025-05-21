@@ -1,0 +1,14 @@
+C:\School\BBB\Lernatelier\Rubiks Cube demo\Rubiks Cube demo\bin\Debug\net8.0\Rubiks Cube demo.exe
+C:\School\BBB\Lernatelier\Rubiks Cube demo\Rubiks Cube demo\bin\Debug\net8.0\Rubiks Cube demo.deps.json
+C:\School\BBB\Lernatelier\Rubiks Cube demo\Rubiks Cube demo\bin\Debug\net8.0\Rubiks Cube demo.runtimeconfig.json
+C:\School\BBB\Lernatelier\Rubiks Cube demo\Rubiks Cube demo\bin\Debug\net8.0\Rubiks Cube demo.dll
+C:\School\BBB\Lernatelier\Rubiks Cube demo\Rubiks Cube demo\bin\Debug\net8.0\Rubiks Cube demo.pdb
+C:\School\BBB\Lernatelier\Rubiks Cube demo\Rubiks Cube demo\obj\Debug\net8.0\Rubiks Cube demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\BBB\Lernatelier\Rubiks Cube demo\Rubiks Cube demo\obj\Debug\net8.0\Rubiks Cube demo.AssemblyInfoInputs.cache
+C:\School\BBB\Lernatelier\Rubiks Cube demo\Rubiks Cube demo\obj\Debug\net8.0\Rubiks Cube demo.AssemblyInfo.cs
+C:\School\BBB\Lernatelier\Rubiks Cube demo\Rubiks Cube demo\obj\Debug\net8.0\Rubiks Cube demo.csproj.CoreCompileInputs.cache
+C:\School\BBB\Lernatelier\Rubiks Cube demo\Rubiks Cube demo\obj\Debug\net8.0\Rubiks Cube demo.dll
+C:\School\BBB\Lernatelier\Rubiks Cube demo\Rubiks Cube demo\obj\Debug\net8.0\refint\Rubiks Cube demo.dll
+C:\School\BBB\Lernatelier\Rubiks Cube demo\Rubiks Cube demo\obj\Debug\net8.0\Rubiks Cube demo.pdb
+C:\School\BBB\Lernatelier\Rubiks Cube demo\Rubiks Cube demo\obj\Debug\net8.0\Rubiks Cube demo.genruntimeconfig.cache
+C:\School\BBB\Lernatelier\Rubiks Cube demo\Rubiks Cube demo\obj\Debug\net8.0\ref\Rubiks Cube demo.dll
